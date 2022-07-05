@@ -16,3 +16,6 @@ dependencies:
   - ipykernel=6.9.1
   - ipython-sql=0.3.9
   - matplotlib=3.5.2   
+  - python-crontab=2.6.0
+  - mysql-connector-python=8.0.18  
+  
