@@ -1,4 +1,4 @@
-name: reports
+name: test
 channels:
   - conda-forge
   - anaconda
