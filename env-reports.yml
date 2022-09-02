@@ -20,4 +20,4 @@ dependencies:
   - python-crontab=2.6.0
   - marshmallow=3.17.0
   - peewee=3.15.1
-  # - mysql-connector-python=8.0.18 can't install from conda on pyver=3.10 so pip install mysql-connector-python --quiet  
+  - mysql-connector-python=8.0.18 can't install from conda on pyver=3.10 so pip install mysql-connector-python --quiet  
