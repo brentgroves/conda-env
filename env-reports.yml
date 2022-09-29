@@ -21,3 +21,4 @@ dependencies:
   - python-crontab=2.6.0
   - marshmallow=3.17.0
   - peewee=3.15.1
+  - xlsxwriter=3.0.3 # conda-forge
