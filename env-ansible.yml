@@ -1,0 +1,7 @@
+name: ansible
+channels:
+  - conda-forge
+  - anaconda
+dependencies:
+  - python=3.9.13 # conda-forge
+  # conda install -c conda-forge jaydebeapi=1.2.3
