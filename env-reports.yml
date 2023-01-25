@@ -3,6 +3,7 @@ channels:
   - conda-forge
   - anaconda
 dependencies:
+  - openssl=1.1.1
   - python=3.9.13 # conda-forge
   - pandas=1.4.2 # conda-forge
   - mysql-connector-python=8.0.30 # conda-forge
