@@ -1,3 +1,4 @@
+# conda env create -f env-reports.yml
 name: reports
 channels:
   - conda-forge
