@@ -22,7 +22,9 @@ dependencies:
   - marshmallow=3.17.0
   - peewee=3.15.1
   - xlsxwriter=3.0.3 # conda-forge
+  - python-dotenv=0.8.2 # conda-forge
   - jaydebeapi=1.2.3
   - pymongo=3.12.0 # anaconda
+  # conda install -c conda-forge python-dotenv=0.8.2
   # conda install -c conda-forge jaydebeapi=1.2.3
   # conda install -c anaconda pymongo=3.12.0
