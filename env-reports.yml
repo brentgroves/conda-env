@@ -27,6 +27,11 @@ dependencies:
   - python-dotenv=0.8.2 # conda-forge
   - jaydebeapi=1.2.3
   - pymongo=3.12.0 # anaconda
+  # - pymysql=1.0.2 # anaconda
+  - xlrd=1.2.0 # anaconda
+  # conda install -c anaconda xlrd=1.2.0
+  # conda install -c anaconda pymysql=1.0.2
+  # conda install -c anaconda mysql-python
   # conda install -c conda-forge python-dotenv=0.8.2
   # conda install -c conda-forge jaydebeapi=1.2.3
   # conda install -c anaconda pymongo=3.12.0
